@@ -1,0 +1,26 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #56d1f9;
+    text-shadow: 2px 2px 15px #f00;
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#fundo{
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    background-color: #aaa;
+    border: 5px solid lightblue;
+    box-shadow: 5px 5px 35px red;
+    z-index: -1;
+    margin-top: 3%;
+}
+#snake{
+    box-shadow: 3px 3px 25px blue;
+}
