@@ -2,4 +2,4 @@
 Jogo da cobrinha com HTML CSS e JAVA SCRIPT
 
 	Use as setinhas para jogar
-![snake](https://i.imgur.com/ZIvNdYd.png "snake")
+![snake](https://i.imgur.com/DFu9xKw.png "snake")
